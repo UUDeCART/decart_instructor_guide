@@ -40,6 +40,8 @@ DeCART is intended to to provide both an in-person [summer school](https://datas
 
 ## Working with Jupyter notebooks
 
+Jupyter notebooks are a generalization of IPython notebooks (renamed because multiple languages are now supported). [Here is a Nature article about IPython notebooks](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)
+
 * [Official Jupyter gallery of interesting notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Teaching with IPython:Jupyter Notebooks and JupyterHub](https://bids.berkeley.edu/resources/videos/teaching-ipythonjupyter-notebooks-and-jupyterhub)
 * [Using Jupyter Notebooks to teach computational literacy](http://www.elearning.eps.manchester.ac.uk/blog/2016/using-jupyter-notebooks-to-teach-computational-literacy/)
